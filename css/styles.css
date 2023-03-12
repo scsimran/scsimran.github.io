@@ -1,0 +1,42 @@
+
+
+}
+p{
+	font-weight: bold;
+	font-family: Arial;
+	font-size: xx-large
+	display: block;
+	
+}
+.hd2{
+	text-align: left;
+}
+img{
+   width: 100px
+}
+
+a{
+	margin-right: all;
+	line-height: 100%;
+}
+
+iframe{
+	display: block;
+	margin: 0 auto;
+}
+
+
+.green-li{
+	color: green;
+}
+.header {
+	background-color: antiquewhite;
+	color: black;
+}
+h1{
+	text-align: left;
+	line-height: 100%;
+}
+.a{
+	height: 100%;
+}
